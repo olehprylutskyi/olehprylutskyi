@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am an ecologist based in Ukraine. My special focus is on fungal ecology, geospatial modelling, ecoinformatics, remote sensing of environment, and habitat mapping.
+
 <!--
 **olehprylutskyi/olehprylutskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
