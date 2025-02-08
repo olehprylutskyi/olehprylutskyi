@@ -1,7 +1,7 @@
 ## Oleh Prylutskyi
 
 [![GitHub Badge](https://img.shields.io/github/followers/olehprylutskyi?style=social)](https://github.com/olehprylutskyi?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/olehp_rylutskyi?style=social)](https://twitter.com/oleh_prylutskyi)
+[![Twitter Badge](https://img.shields.io/twitter/follow/oleh_prylutskyi?style=social)](https://twitter.com/oleh_prylutskyi)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=R5Wi5DAAAAAJ&hl=en)
 [![Research Gate Badge](https://img.shields.io/badge/My-ResearchGate-green)](https://www.researchgate.net/profile/Oleh-Prylutskyi)
 [![Scopus Badge](https://img.shields.io/badge/Google-Scholar-yellow)](https://www.scopus.com/authid/detail.uri?authorId=57651834500)
